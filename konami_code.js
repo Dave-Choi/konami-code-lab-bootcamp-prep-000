@@ -11,6 +11,14 @@ const codes = [
   "a"
 ];
 
+
+let codeIndex = 0;
+
+function onKeyDownHandler(e){
+  let key = e.key;
+  
+}
+
 function init() {
   // your code here
   
