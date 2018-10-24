@@ -25,6 +25,9 @@ function onKeyDownHandler(e){
       codeIndex = 0;
     }
   }
+  else{
+    codeIndex = 0;
+  }
 }
 
 function init() {
